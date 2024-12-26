@@ -15,9 +15,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- Hi, I’m @GustavoTonolli, I'm 27 years Old, And I live in Joinville, Santa Catarina.
+- Hello, Welcome to my github profile! I’m @GustavoTonolli, I'm 28 years Old, And I live in Joinville, Santa Catarina.
 - Currently working as Software Engineer;
-- Technologys: REACT, NEXTJS, TAILWIND, HTML, SCSS, ANGULAR, TYPESCRIPT, JAVASCRIPT, MATERIALIZE, BOOTSTRAP, AZUREDEVOPS, PYTHON, GOOGLE CLOUD, GITHUB ACTIONS.
+- Techs: REACT, ANGULAR, VUEJS, PHP 7/8, NEXTJS, NODEJS, NESTJS, TAILWIND, HTML, SCSS, ANGULAR, TYPESCRIPT, JAVASCRIPT, MYSQL, POSTGRESQL, MATERIALIZE, BOOTSTRAP, AZUREDEVOPS, PYTHON, GOOGLE CLOUD, GITHUB ACTIONS.
 - I’m looking to collaborate on projects, and creating network in the comunnity, and if you can use my help for anythig, just let me know...
 - You can reach me in my e-mail: gustavo.tonolli@hotmail.com | mobile: +5547992140396. Instagram: @gutonolli 
 - LINKEDIN : https://www.linkedin.com/in/gustavo-tonolli-a8390274/
