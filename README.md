@@ -14,7 +14,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 - Hello, Welcome to my github profile! I’m @GustavoTonolli, I'm 28 years Old, And I live in Joinville, Santa Catarina.
 - Currently working as Software Engineer;
 - Techs: REACT, ANGULAR, VUEJS, PHP 7/8, NEXTJS, NODEJS, NESTJS, TAILWIND, HTML, SCSS, ANGULAR, TYPESCRIPT, JAVASCRIPT, MYSQL, POSTGRESQL, MATERIALIZE, BOOTSTRAP, AZUREDEVOPS, PYTHON, GOOGLE CLOUD, GITHUB ACTIONS.
