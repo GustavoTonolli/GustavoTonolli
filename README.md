@@ -18,7 +18,7 @@
 - Hello, Welcome to my github profile! I’m @GustavoTonolli, I'm 28 years Old, And I live in Joinville, Santa Catarina.
 - Currently working as Software Engineer;
 - Techs: REACT, ANGULAR, VUEJS, PHP 7/8, NEXTJS, NODEJS, NESTJS, TAILWIND, HTML, SCSS, ANGULAR, TYPESCRIPT, JAVASCRIPT, MYSQL, POSTGRESQL, MATERIALIZE, BOOTSTRAP, AZUREDEVOPS, PYTHON, GOOGLE CLOUD, GITHUB ACTIONS.
-- I’m looking to collaborate on projects, and creating network in the comunnity, and if you can use my help for anythig, just let me know...
+- I’m looking to collaborate on projects, and creating network in the comunnity, and if you can use my help for anything, just let me know...
 - You can reach me in my e-mail: gustavo.tonolli@hotmail.com | mobile: +5547992140396. Instagram: @gutonolli 
 - LINKEDIN : https://www.linkedin.com/in/gustavo-tonolli-a8390274/
 
